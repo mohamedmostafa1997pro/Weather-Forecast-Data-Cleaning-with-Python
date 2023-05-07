@@ -10,8 +10,11 @@ data.
 Some of ScreenShoots from the Python File 
 
 ![](Images/Pre-processing and data cleaning.png)
+
 ![](Images/Importing Laibraries.png)
+
 ![](Images/Fixing data types.png)
+
 ![](Images/Dealing with NULLs.png)
 
 
@@ -19,5 +22,3 @@ Some of ScreenShoots from the Python File
 As you can find in this repository 4 csv files which include :
 * Weather_dataset_stage1.xls
 * Weather_datasetcleaned.csv
-
-

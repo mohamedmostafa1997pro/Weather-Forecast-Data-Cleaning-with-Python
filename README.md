@@ -7,12 +7,12 @@ data.
 
 ![download.gif](https://cdn.dribbble.com/users/1046127/screenshots/3987643/media/f8536f8486d6a831bc8ceff562e6e6e6.gif)
 
+Some of ScreenShoots from the Python File 
 
-
-![](Pre-processing and data cleaning.png)
-![](Importing Laibraries.png)
-![](Fixing data types.png)
-![](Dealing with NULLs.png)
+![](Images/Pre-processing and data cleaning.png)
+![](Images/Importing Laibraries.png)
+![](Images/Fixing data types.png)
+![](Images/Dealing with NULLs.png)
 
 
 ## Files

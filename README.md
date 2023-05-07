@@ -9,16 +9,15 @@ data.
 
 
 
-![](Images/HR_Analytics_Dashboard_Home.png)
-![](Images/HR_Analytics_Dashboard_Details.png)
-![](Images/Dealing with NULLs.png)
+![](Pre-processing and data cleaning.png)
+![](Importing Laibraries.png)
+![](Fixing data types.png)
+![](Dealing with NULLs.png)
 
 
 ## Files
 As you can find in this repository 4 csv files which include :
-* HR Analytics Data.csv.
-* HR employee data.csv.
-* data.csv Retrenchment.csv
-* data.csv promomtion.csv
+* Weather_dataset_stage1.xls
+* Weather_datasetcleaned.csv
 
 

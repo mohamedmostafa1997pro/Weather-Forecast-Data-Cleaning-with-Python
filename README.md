@@ -7,3 +7,18 @@ data.
 
 ![download.gif](https://cdn.dribbble.com/users/1046127/screenshots/3987643/media/f8536f8486d6a831bc8ceff562e6e6e6.gif)
 
+
+
+![](Images/HR_Analytics_Dashboard_Home.png)
+![](Images/HR_Analytics_Dashboard_Details.png)
+![](Images/Dealing with NULLs.png)
+
+
+## Files
+As you can find in this repository 4 csv files which include :
+* HR Analytics Data.csv.
+* HR employee data.csv.
+* data.csv Retrenchment.csv
+* data.csv promomtion.csv
+
+
